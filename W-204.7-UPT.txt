@@ -1,0 +1,97 @@
+ZZ 30^16'22.6655"   91^10'09.4311" (U)
+BOR. W-204.7-UPT (17-23331)
+STA. 
+
+WATER TABLE    3 FT.
+Date: 2/15/2017
+CONTRACTOR: EUSTIS ENGINEERING 
+GROUND EL. 23.47
+  0.0  1.0 29     CH  SISST BR GR    RT   
+  1.0  2.0 29     CH  SISST BR GR    RT                
+  2.0  4.0 33     CH  SIS M GR  T             
+  4.0  5.0 45     CH  SIS M BR GR
+  5.0  6.0 47  6.0CH  SIS M BR GR
+  6.0  8.0     8.0NS
+  8.0  9.0 37     CH  SISST GR BR     
+  9.0 10.0 36     CH  SISST GR BR                              
+ 10.0 12.0 45     CH  SIS M GR BR    CC
+ 12.0 13.0 48     CH  SISST GR BR    CC
+ 13.0 14.0 27     CH  SIS M GR BR                       959117            33 135
+ 14.0 15.0 38     CH  SISST GR BR    CC
+ 15.0 16.0 36     CH  SISST GR BR
+ 16.0 17.0 36     CH  SISST GR BR    CC
+ 17.0 18.0 37     CH  SISST GR BR    CC
+ 18.0 20.0 36 20.0CH  SIS M GR BR    CC                 700115            37 185
+ 20.0 21.0 32     CL      M BR GR
+ 21.0 22.0 32     CL      M GR
+ 22.0 23.0 35     CL      M GR
+ 23.0 24.0 33 24.0CL      M GR        O
+ 24.0 25.5 32     ML        GR                       15
+ 25.5 28.0 32 28.0ML        GR                       19
+ 28.0 30.0 23     SM        GR                       21
+ 30.0 32.5 27 32.5SM        GR       CS              24
+ 32.5 35.0 56 35.0CH     VSTGR        S              16
+ 35.0 37.5 20     SP        GR                       18
+ 37.5 40.0 20     SP        GR                       15             .1525             95.0
+ 40.0 42.5 19     SP        GR                       18
+ 42.5 45.0 19     SP        GR  T     O              18             .2052             96.3
+ 45.0 47.5 22     SP        GR  T                    16
+ 47.5 50.0 19     SP        GR  T    CS              19             .1152             95.0
+ 50.0 52.5 19     SP        GR        G              21
+ 52.5 55.0 17     SP        GR  T                    26             .1107             93.7
+ 55.0 57.5 19     SP        GR  T     G SIF          24
+ 57.5 60.0 20     SP        GR  T                    26             .1025             93.2
+ 60.0 62.5 20     SP        GR  T     O              21
+ 62.5 65.0 20     SP        GR  T                    28             .1351             95.3
+ 65.0 67.5 18     SP        GR  T                    33
+ 67.5 70.0 17     SP        GR  T                    34             .0952             92.1
+ 70.0 72.5 17     SP        GR  T                    34
+ 72.5 75.0 18 75.0SP        GR  T     G              29             .1148             93.6
+ 75.0 77.5 18     SM        GR  T                    29
+ 77.5 80.0 20     SM        GR  T     O CS           33             .0474             87.0
+ 80.0 82.5 22 82.5SM        GR  T     O              36
+ 82.5 85.0 20     SP        GR  T     O  G           39             .1158             93.7
+ 85.0 87.5 21     SP        GR  T     O              37
+ 87.5 90.0 20     SP        GR  T     O              34             .1136             94.3
+ 90.0 92.5 19     SP        GR DGR    O              36
+ 92.5 95.0 27     SP        GR  T     O              36             .0858             91.5
+ 95.0 97.5 21     SP        GR  T                    34
+ 97.5100.0 22     SP        GR  T                    37             .0813             90.8
+100.0102.5 16     SP        GR  T                    36
+102.5105.0 18     SP        GR  T                    31             .0776             90.6
+105.0107.5 20     SP        GR  T                    35
+107.5110.0 23     SP        GR  T     O              42             .0912             91.1
+110.0112.5 20     SP        GR  T     O              49
+112.5115.0 24     SP        GR  T     O              48             .0820             90.8
+115.0117.5 24     SP        GR  T     O              52
+117.5120.0 21     SP        GR  T                    55             .1146             93.7
+120.0122.5 24     SP        GR  T     O              58
+122.5125.0 25125.0SP        GR  T     O              59             .1146             94.1
+125.0127.5 24     SM        GR DGR    O              54
+127.5130.0 21     SM        GR       CS              50                               80.6
+130.0132.5 22     SM        GR       CS              47
+132.5135.0 20     SM        GR       CS              50                               80.9
+135.0137.5 21     SM        GR       CS              51
+137.5140.0 27     SM        GR       CS              53             .0573             88.4
+140.0142.5 29142.5SM        GR       CS  G           53
+142.5145.0 21     SP        GR  T    CS  G           56             .1101             92.7
+145.0147.5 18     SP        GR  T     G              34
+147.5150.0 18150.0SP        GR  T     G              37             .0866             90.9
+999.9
+***************************************************************************
+SHEAR STRENGTH DESIGN VALUES
+Test Type:(Q)                    Classif  : CH
+Depth/Ele:  10.00/13.47          Water Con: 46.00
+LL,PL,PI :  91, 26, 65           Dry Dens : 75.40
+Cohesion :  0.3285               Saturat  : 99.00
+Shear Str:                       Frict Ang: 00.00
+Toggles  :(     )(     )(     )(     )
+***************************************************************************
+SHEAR STRENGTH DESIGN VALUES
+Test Type:(Q)                    Classif  : CH
+Depth/Ele:  15.00/8.47           Water Con: 36.30
+LL,PL,PI :  68, 19, 49           Dry Dens : 83.80
+Cohesion :  0.507                Saturat  : 98.00
+Shear Str:                       Frict Ang: 00.00
+Toggles  :(     )(     )(     )(     )
+

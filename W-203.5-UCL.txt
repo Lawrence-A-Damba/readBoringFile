@@ -1,0 +1,118 @@
+ZZ 30^16'19.0115"   91^09'06.9046" (U)
+BOR. W-203.5-UCL (17-23331)
+STA. 
+
+WATER TABLE      FT.
+Date: 2/10/2017
+CONTRACTOR: EUSTIS ENGINEERING 
+GROUND EL. 44.37
+  0.0  0.5 14     CL     ST BR       RT  G
+  0.5  2.0  9     CL     ST  T        G              10
+  2.0  3.0 27     CL     ST BR GR
+  3.0  4.0 27     CL     ST BR GR
+  4.0  5.0 26     CL     ST GR  T
+  5.0  6.0 26     CL     ST GR  T
+  6.0  8.0 30     CL     ST BR GR
+  8.0  9.0 26     CL      M GR GR
+  9.0 10.0 28     CL      M BR GR
+ 10.0 12.0 33     CL      M BR GR
+ 12.0 13.0 35     CL      M GR
+ 13.0 14.0 37     CL      M GR
+ 14.0 16.0 32     CL      M GR
+ 16.0 17.0 30     CL     ST GR  T
+ 17.0 18.0 37     CL     ST GR  T
+ 18.0 19.0 30     CL     ST GR BR
+ 19.0 20.0 32     CL     ST GR BR
+ 20.0 21.0 28     CL     SO GR
+ 21.0 22.0 35     CL     SO GR
+ 22.0 23.0 32     CL     SO GR
+ 23.0 24.0 25     CL     SO GR
+ 24.0 25.0 25     CL     SO GR
+ 25.0 26.0 35     CL      M GR
+ 26.0 27.0 42     CL      M GR
+ 27.0 28.0 32 28.0CL      M GR
+ 28.0 29.0 34     CH  SIS M GR       SL
+ 29.0 30.0 33     CH  SIS M GR       SL
+ 30.0 31.0 36     CH  SIS M GR
+ 31.0 32.0 36     CH  SIS M GR BR    SL
+ 32.0 33.0 36     CH  SIS M GR BR
+ 33.0 34.0 42     CH  SIS M BR GR
+ 34.0 35.0 36 35.0CH  SIS M BR GR
+ 35.0 36.0 35 36.0CL      M GR BR                       986120            31 355
+ 36.0 37.0 36     CH  SIS M BR GR
+ 37.0 38.0 36 38.0CH  SIS M BR GR
+ 38.0 39.0 33 39.0CL      M GR BR
+ 39.0 40.0 32 40.0CH  SIS M BR GR
+ 40.0 41.0 39     CH  SS  M GR  T
+ 41.0 42.0 34     CH  SS  M GR  T
+ 42.0 43.0 35 43.0CH  SS  M GR  T
+ 43.0 44.0 29 44.0SM        GR
+ 44.0 45.0 30     ML        GR  T    CS  S
+ 45.0 46.0 27     ML        GR        S
+ 46.0 47.5 25     ML        GR
+ 47.5 50.0 25     ML        GR                        6
+ 50.0 52.5 26 52.5ML        GR                        4
+ 52.5 55.0 51 55.0CH     SO GR                        4
+ 55.0 57.5 23     SP        GR        G  O           18
+ 57.5 60.0 23     SP        GR  T                    17             .1479             93.7
+ 60.0 62.5 21     SP        GR  T                    26
+ 62.5 65.0 21     SP        GR  T                    21             .1289             93.1
+ 65.0 67.5 18     SP        GR  T     G              39
+ 67.5 70.0 18     SP        GR  T                    34             .1162             93.4
+ 70.0 72.5 18     SP        GR  T     G  O           40
+ 72.5 75.0 17     SP        BR GR     G              43             .1050             91.8
+ 75.0 77.5 19     SP        GR  T     O              35
+ 77.5 80.0 19     SP        GR DGR    G  O           34             .0785             90.2
+ 80.0 82.5 19     SP        GR        O              51
+ 82.5 85.0 19     SP        GR        G              47             .0906             90.6
+ 85.0 87.5 21     SP        GR DGR    O              51
+ 87.5 90.0 20     SP        GR  T    SIF             32             .1027             91.8
+ 90.0 92.5 23     SP        GR  T                    44
+ 92.5 95.0 23     SP        GR  T                    45             .1495             96.0
+ 95.0 97.5 25     SP        GR  T                    28
+ 97.5100.0 24     SP        GR  T                    35             .1114             94.5
+100.0102.5 24     SP        GR  T                    50
+102.5105.0 25     SP        GR  T                    53             .0884             91.3
+105.0107.5 25     SP        GR  T     G              39
+107.5110.0 22     SP        GR  T                    38             .0936             92.6
+110.0112.5 23     SP        GR  T                    41
+112.5115.0 25     SP        GR  T                    39             .1002             94.5
+115.0117.5 26     SP        GR  T                    42
+117.5120.0 23     SP        GR  T     G              41             .0844             91.2
+120.0122.5 24     SP        GR  T                    44
+122.5125.0 22     SP        GR  T                    30             .0999             93.6
+125.0127.5 25     SP        GR  T                    31
+127.5130.0 24     SP        GR  T                    37             .1088             94.2
+130.0132.5 20     SP        GR  T                    39
+132.5135.0 19135.0SP        GR  T     G              33             .1287             93.2
+135.0137.5246137.5WD        BR                       41
+137.5140.0 23     SP        GR                       52             .1163             93.5
+140.0142.5 23     SP        GR                       39
+142.5145.0 23     SP        GR                       46             .1379             94.5
+145.0147.5 20     SP        GR                       49
+147.5150.0 23     SP        GR                       47             .1409             93.3
+150.0152.5 21     SP        GR                       80
+152.5155.0 22     SP        GR        G              78             .1192             93.3
+155.0157.5 24     SP        GR                       52
+157.5160.0 23     SP        GR        G              58             .1112             92.6
+160.0162.5 22     SP        GR       SIF             65
+162.5165.0 25     SP        GR                       63             .1423             93.2
+165.0167.5 36     SP        GR  T                    63
+167.5170.0 32170.0SP        GR  T                    57             .1537             94.4
+999.9
+***************************************************************************
+SHEAR STRENGTH DESIGN VALUES
+Test Type:(Q)                    Classif  : CH
+Depth/Ele:  30.0/14.37           Water Con: 40.90
+LL,PL,PI :  86, 20, 66           Dry Dens : 79.30
+Cohesion :  0.4185               Saturat  : 100.0
+Shear Str:                       Frict Ang: 00.00
+Toggles  :(     )(     )(     )(     )
+***************************************************************************
+SHEAR STRENGTH DESIGN VALUES
+Test Type:(Q)                    Classif  : CL
+Depth/Ele:  38.0/6.37            Water Con: 31.80
+LL,PL,PI :  46, 17, 29           Dry Dens : 88.80
+Cohesion :  0.445                Saturat  : 93.00
+Shear Str:                       Frict Ang: 00.00
+Toggles  :(     )(     )(     )(     )
