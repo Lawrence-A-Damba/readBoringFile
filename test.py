@@ -13,4 +13,5 @@ for boringName in newList:
     open_file = open(boringName, 'r')
     file = open_file.readlines()
     print(file)
+#junk remove this comment.
 open_file.close()
