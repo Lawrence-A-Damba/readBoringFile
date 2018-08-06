@@ -13,12 +13,13 @@ for boringName in boringFileNames:
 #    print(file)
 open_file.close()
 print(file[0:2])
-text=str(file[8])
-text=text.split(' ')
+text=str(file[14])
+text=text.split()
 print(text)
-for item in text:
+'''for item in text:
     if item == '':
         text.remove('')
     else:
         pass
 print(text)
+'''

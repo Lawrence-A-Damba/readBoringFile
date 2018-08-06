@@ -2,6 +2,7 @@ import os
 boringFileNames = []
 listOfFiles = os.listdir('.')
 newList = []
+
 for names in listOfFiles:
     if names.endswith(".txt"):
        newList.append(names)
