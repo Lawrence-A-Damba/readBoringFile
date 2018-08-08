@@ -1,0 +1,3002 @@
+Top    0.0
+Bottom    1.0
+Water   26
+Strata       
+Log  CH     
+Cons.  ST 
+Color  GR  T    
+Syb  RT
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top    1.0
+Bottom    2.0
+Water   27
+Strata       
+Log  CH     
+Cons.  ST 
+Color  GR  T    
+Syb  RT
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top    2.0
+Bottom    3.0
+Water   26
+Strata       
+Log  CH     
+Cons.  ST 
+Color  GR  T    
+Syb  SIF
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top    3.0
+Bottom    4.0
+Water   27
+Strata       
+Log  CH     
+Cons.  ST 
+Color  GR  T    
+Syb  CC 
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top    4.0
+Bottom    6.0
+Water   26
+Strata       
+Log  CH     
+Cons.  ST 
+Color   T BR    
+Syb                
+Res.     9
+UCT  
+
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top    6.0
+Bottom    7.0
+Water   27
+Strata       
+Log  CH     
+Cons.  ST 
+Color  GR  T    
+Syb  RT
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top    7.0
+Bottom    8.0
+Water   28
+Strata    8.0
+Log  CH     
+Cons.  ST 
+Color  GR  T    
+Syb  CC            
+Res.      
+UCT  1541
+Density  124
+LL     
+PL     
+D-10       
+Water   26
+UCT    73
+ORG%  
+
+Materiall  
+Top    8.0
+Bottom   10.0
+Water     
+Strata   10.0
+Log  NS 
+
+Cons.  
+Color  
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   10.0
+Bottom   11.0
+Water   35
+Strata       
+Log  CH     
+Cons.   M 
+Color  GR  T
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   11.0
+Bottom   12.0
+Water   27
+Strata   12.0
+Log  CH     
+Cons.   M 
+Color  DGR      
+Syb  CC RT
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   12.0
+Bottom   14.0
+Water   27
+Strata   14.0
+Log  CL     
+Cons.   M 
+Color  LGR      
+Syb  CC RT
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   14.0
+Bottom   15.0
+Water   26
+Strata       
+Log  CH     
+Cons.   M 
+Color  LGR      
+Syb  CC RT
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   15.0
+Bottom   16.0
+Water   31
+Strata   16.0
+Log  CH     
+Cons.   M 
+Color  LGR      
+Syb  CC RT
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   16.0
+Bottom   18.0
+Water   33
+Strata   18.0
+Log  CH  SIS
+Cons.   M 
+Color  GR  T    
+Syb  CC
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   18.0
+Bottom   19.0
+Water   31
+Strata       
+Log  CL     
+Cons.   M 
+Color  GR  T    
+Syb  CC
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   19.0
+Bottom   20.0
+Water   31
+Strata       
+Log  CL     
+Cons.  SO 
+Color  GR  T    
+Syb                
+Res.      
+UCT   256
+Density  114
+LL     
+PL     
+D-10       
+Water   33
+UCT   193
+ORG%  
+
+Materiall  
+Top   20.0
+Bottom   21.0
+Water   35
+Strata       
+Log  CL     
+Cons.  SO 
+Color  GR       
+Syb  CC
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   21.0
+Bottom   22.0
+Water   33
+Strata       
+Log  CL     
+Cons.   M 
+Color  GR  T    
+Syb  CC
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   22.0
+Bottom   23.0
+Water   35
+Strata       
+Log  CL     
+Cons.   M 
+Color  GR  T    
+Syb    
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   23.0
+Bottom   24.0
+Water   37
+Strata       
+Log  CL     
+Cons.   M 
+Color  GR       
+Syb    
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   24.0
+Bottom   26.0
+Water   34
+Strata   26.0
+Log  CL     
+Cons.  SO 
+Color  GR  T    
+Syb    
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   26.0
+Bottom   27.0
+Water   48
+Strata       
+Log  CH  SIS
+Cons.  VST
+Color  GNG T    
+Syb  SL
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   27.0
+Bottom   28.0
+Water   46
+Strata   28.0
+Log  CH  SIS
+Cons.   M 
+Color  GR       
+Syb  SL
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   28.0
+Bottom   30.0
+Water     
+Strata   30.0
+Log  NS
+
+Cons.  
+Color  
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   30.0
+Bottom   31.0
+Water   37
+Strata       
+Log  CH  SIS
+Cons.  ST 
+Color  GNG      
+Syb  SL
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   31.0
+Bottom   32.0
+Water   37
+Strata       
+Log  CH  SIS
+Cons.  ST 
+Color  GNG      
+Syb  SL
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   32.0
+Bottom   33.0
+Water   38
+Strata       
+Log  CH  SIS
+Cons.   M 
+Color  GNG      
+Syb  SL
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   33.0
+Bottom   34.0
+Water   36
+Strata       
+Log  CH  SIS
+Cons.  ST 
+Color  GNG      
+Syb  SL
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   34.0
+Bottom   35.0
+Water   38
+Strata       
+Log  CH  SIS
+Cons.  ST 
+Color  GNG      
+Syb  SL
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   35.0
+Bottom   36.0
+Water   39
+Strata   36.0
+Log  CH  SIS
+Cons.   M 
+Color  GNG      
+Syb  SL            
+Res.      
+UCT   585
+Density  109
+LL     
+PL     
+D-10       
+Water   42
+UCT   353
+ORG%  
+
+Materiall  
+Top   36.0
+Bottom   38.0
+Water     
+Strata   38.0
+Log  NS
+
+Cons.  
+Color  
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   38.0
+Bottom   39.0
+Water   40
+Strata       
+Log  CL     
+Cons.  SO 
+Color  GR
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   39.0
+Bottom   40.0
+Water   34
+Strata       
+Log  CL     
+Cons.   M 
+Color  GR
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   40.0
+Bottom   41.0
+Water   27
+Strata       
+Log  CL     
+Cons.   M 
+Color  GR       
+Syb  CC
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   41.0
+Bottom   42.0
+Water   33
+Strata       
+Log  CL     
+Cons.   M 
+Color  GR
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   42.0
+Bottom   43.0
+Water   33
+Strata       
+Log  CL     
+Cons.   M 
+Color  GR
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   43.0
+Bottom   44.0
+Water   35
+Strata   44.0
+Log  CL     
+Cons.   M 
+Color  GR
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   44.0
+Bottom   46.0
+Water   52
+Strata   46.0
+Log  CH  SIS
+Cons.  ST 
+Color  GR       
+Syb  SL  O
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   46.0
+Bottom   47.0
+Water   56
+Strata       
+Log  CH     
+Cons.  ST 
+Color  GR       
+Syb  WD
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   47.0
+Bottom   48.0
+Water   61
+Strata       
+Log  CH     
+Cons.  ST 
+Color  GR       
+Syb  WD
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   48.0
+Bottom   50.0
+Water   71
+Strata   50.0
+Log  CH     
+Cons.  ST 
+Color  GR       
+Syb  WD
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   50.0
+Bottom   51.0
+Water   81
+Strata       
+Log  CH   O 
+Cons.   M 
+Color  DGRGR
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   51.0
+Bottom   52.0
+Water   79
+Strata   52.0
+Log  CH   O 
+Cons.  ST 
+Color  DGRGR    
+Syb  WD
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   52.0
+Bottom   53.0
+Water   29
+Strata       
+Log  CL     
+Cons.   M 
+Color  GR       
+Syb  CC            
+Res.      
+UCT   731
+Density  123
+LL     
+PL     
+D-10       
+Water   29
+UCT   523
+ORG%  
+
+Materiall  
+Top   53.0
+Bottom   54.0
+Water   30
+Strata       
+Log  CL     
+Cons.   M 
+Color  GR       
+Syb                
+Res.      
+UCT      
+Density     
+LL     
+PL     
+D-10       
+Water     
+UCT      
+ORG%  
+
+Materiall  
+Top   54.0
+Bottom   55.0
+Water   28
+Strata       
+Log  CL     
+Cons.   M 
+Color  GR
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   55.0
+Bottom   56.0
+Water   29
+Strata       
+Log  CL     
+Cons.   M 
+Color  GR       
+Syb                
+Res.      
+UCT   647
+Density  122
+LL     
+PL     
+D-10       
+Water   29
+UCT   553
+ORG%  
+
+Materiall  
+Top   56.0
+Bottom   57.0
+Water   29
+Strata       
+Log  CL     
+Cons.   M 
+Color  GR
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   57.0
+Bottom   58.0
+Water   28
+Strata       
+Log  CL     
+Cons.   M 
+Color  GR
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   58.0
+Bottom   59.0
+Water   34
+Strata       
+Log  CL     
+Cons.   M 
+Color  GR
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   59.0
+Bottom   60.0
+Water   33
+Strata       
+Log  CL     
+Cons.   M 
+Color  GR
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   60.0
+Bottom   61.0
+Water   34
+Strata       
+Log  CL     
+Cons.   M 
+Color  GR
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   61.0
+Bottom   62.0
+Water   34
+Strata   62.0
+Log  CL     
+Cons.   M 
+Color  GR
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   62.0
+Bottom   63.0
+Water   22
+Strata       
+Log  CH  SIS
+Cons.  VST
+Color  GNG T    
+Syb    
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   63.0
+Bottom   64.0
+Water   22
+Strata       
+Log  CH  SIS
+Cons.  VST
+Color  GNG T    
+Syb                
+Res.      
+UCT  2222
+Density  130
+LL     
+PL     
+D-10       
+Water   22
+UCT   633
+ORG%  
+
+Materiall  
+Top   64.0
+Bottom   66.0
+Water   22
+Strata       
+Log  CH  SIS
+Cons.  VST
+Color  GNG T    
+Syb    
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   66.0
+Bottom   67.0
+Water   23
+Strata       
+Log  CH  SIS
+Cons.  VST
+Color   T GNG   
+Syb  CC   
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   67.0
+Bottom   68.0
+Water   22
+Strata       
+Log  CH  SIS
+Cons.  VST
+Color   T GNG   
+Syb  CC   
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   68.0
+Bottom   69.0
+Water   23
+Strata       
+Log  CH  SIS
+Cons.  VST
+Color   T GNG   
+Syb  CC            
+Res.      
+UCT  2835
+Density  129
+LL     
+PL     
+D-10       
+Water   23
+UCT   683
+ORG%  
+
+Materiall  
+Top   69.0
+Bottom   70.0
+Water   25
+Strata       
+Log  CH  SIS
+Cons.  VST
+Color   T GNG   
+Syb  CC   
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   70.0
+Bottom   71.0
+Water   33
+Strata       
+Log  CH  SIS
+Cons.  VST
+Color   T GR    
+Syb  CC   
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   71.0
+Bottom   72.0
+Water   32
+Strata   72.0
+Log  CH  SIS
+Cons.  VST
+Color   T GR    
+Syb  CC   
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   72.0
+Bottom   74.0
+Water   32
+Strata       
+Log  CH     
+Cons.  ST 
+Color  GR  T    
+Syb  CC   
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   74.0
+Bottom   75.0
+Water   29
+Strata       
+Log  CH     
+Cons.  ST 
+Color  GR  T    
+Syb     
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   75.0
+Bottom   76.0
+Water   27
+Strata       
+Log  CH     
+Cons.  ST 
+Color   T GR    
+Syb    
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   76.0
+Bottom   78.0
+Water   27
+Strata       
+Log  CH     
+Cons.   M 
+Color  GR       
+Syb                
+Res.      
+UCT   519
+Density  119
+LL     
+PL     
+D-10       
+Water   27
+UCT   763
+ORG%  
+
+Materiall  
+Top   78.0
+Bottom   79.0
+Water   26
+Strata       
+Log  CH     
+Cons.  ST 
+Color  GR  T    
+Syb  CC
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top   79.0
+Bottom   80.0
+Water   21
+Strata   80.0
+Log  CH     
+Cons.  ST 
+Color  GR  T    
+Syb                
+Res.      
+UCT  1393
+Density  123
+LL     
+PL     
+D-10       
+Water   24
+UCT   793
+ORG%  
+
+Materiall  
+Top  999.9
+Bottom  
+
+Water  
+Strata  
+Log  
+Cons.  
+Color  
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  *****
+Bottom  *****
+Water  ***
+Strata  *****
+Log  *******
+Cons.  ***
+Color  *********
+Syb  **************
+Res.  ****
+UCT  ****
+Density  ***
+LL  ***
+PL  ***
+D-10  *****
+Water  **
+
+UCT  
+ORG%  
+Materiall  
+Top  SHEAR
+Bottom   STRE
+Water  NGT
+Strata  H DES
+Log  IGN VAL
+Cons.  UES
+Color  
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Test 
+Bottom  Type:
+Water  (Q)
+Strata       
+Log         
+Cons.     
+Color       Clas
+Syb  sif  : CH  
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Depth
+Bottom  /Ele:
+Water    3
+Strata  .00/0
+Log  7.28   
+Cons.     
+Color       Wate
+Syb  r Con: 26.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  LL,PL
+Bottom  ,PI :
+Water    5
+Strata  2, 20
+Log  , 32   
+Cons.     
+Color       Dry 
+Syb  Dens : 98.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Cohes
+Bottom  ion :
+Water    0
+Strata  .935 
+Log         
+Cons.     
+Color       Satu
+Syb  rat  : 95.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Shear
+Bottom   Str:
+Water     
+Strata       
+Log         
+Cons.     
+Color       Fric
+Syb  t Ang: 00.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Toggl
+Bottom  es  :
+Water  (  
+Strata     )(
+Log       )(
+Cons.     
+Color    )(     
+Syb  )
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  *****
+Bottom  *****
+Water  ***
+Strata  *****
+Log  *******
+Cons.  ***
+Color  *********
+Syb  **************
+Res.  ****
+UCT  ****
+Density  ***
+LL  ***
+PL  ***
+D-10  *****
+Water  **
+
+UCT  
+ORG%  
+Materiall  
+Top  SHEAR
+Bottom   STRE
+Water  NGT
+Strata  H DES
+Log  IGN VAL
+Cons.  UES
+Color  
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Test 
+Bottom  Type:
+Water  (Q)
+Strata       
+Log         
+Cons.     
+Color       Clas
+Syb  sif  : CH  
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Depth
+Bottom  /Ele:
+Water   11
+Strata  .00/-
+Log  00.72  
+Cons.     
+Color       Wate
+Syb  r Con: 30.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  LL,PL
+Bottom  ,PI :
+Water    5
+Strata  3, 20
+Log  , 33   
+Cons.     
+Color       Dry 
+Syb  Dens : 93.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Cohes
+Bottom  ion :
+Water    0
+Strata  .418 
+Log         
+Cons.     
+Color       Satu
+Syb  rat  : 98.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Shear
+Bottom   Str:
+Water     
+Strata       
+Log         
+Cons.     
+Color       Fric
+Syb  t Ang: 00.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Toggl
+Bottom  es  :
+Water  (  
+Strata     )(
+Log       )(
+Cons.     
+Color    )(     
+Syb  )
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  *****
+Bottom  *****
+Water  ***
+Strata  *****
+Log  *******
+Cons.  ***
+Color  *********
+Syb  **************
+Res.  ****
+UCT  ****
+Density  ***
+LL  ***
+PL  ***
+D-10  *****
+Water  **
+
+UCT  
+ORG%  
+Materiall  
+Top  SHEAR
+Bottom   STRE
+Water  NGT
+Strata  H DES
+Log  IGN VAL
+Cons.  UES
+Color  
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Test 
+Bottom  Type:
+Water  (Q)
+Strata       
+Log         
+Cons.     
+Color       Clas
+Syb  sif  : CH  
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Depth
+Bottom  /Ele:
+Water    1
+Strata  6.00/
+Log  -05.72 
+Cons.     
+Color       Wate
+Syb  r Con: 35.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  LL,PL
+Bottom  ,PI :
+Water    6
+Strata  1, 18
+Log  , 43   
+Cons.     
+Color       Dry 
+Syb  Dens : 93.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Cohes
+Bottom  ion :
+Water    0
+Strata  .472 
+Log         
+Cons.     
+Color       Satu
+Syb  rat  : 91.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Shear
+Bottom   Str:
+Water     
+Strata       
+Log         
+Cons.     
+Color       Fric
+Syb  t Ang: 00.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Toggl
+Bottom  es  :
+Water  (  
+Strata     )(
+Log       )(
+Cons.     
+Color    )(     
+Syb  )
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  *****
+Bottom  *****
+Water  ***
+Strata  *****
+Log  *******
+Cons.  ***
+Color  *********
+Syb  **************
+Res.  ****
+UCT  ****
+Density  ***
+LL  ***
+PL  ***
+D-10  *****
+Water  **
+
+UCT  
+ORG%  
+Materiall  
+Top  SHEAR
+Bottom   STRE
+Water  NGT
+Strata  H DES
+Log  IGN VAL
+Cons.  UES
+Color  
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Test 
+Bottom  Type:
+Water  (Q)
+Strata       
+Log         
+Cons.     
+Color       Clas
+Syb  sif  : CL  
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Depth
+Bottom  /Ele:
+Water   20
+Strata  .00/-
+Log  09.72  
+Cons.     
+Color       Wate
+Syb  r Con: 34.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  LL,PL
+Bottom  ,PI :
+Water    3
+Strata  8, 18
+Log  , 20   
+Cons.     
+Color       Dry 
+Syb  Dens : 87.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Cohes
+Bottom  ion :
+Water    0
+Strata  .170 
+Log         
+Cons.     
+Color       Satu
+Syb  rat  : 99.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Shear
+Bottom   Str:
+Water     
+Strata       
+Log         
+Cons.     
+Color       Fric
+Syb  t Ang: 00.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Toggl
+Bottom  es  :
+Water  (  
+Strata     )(
+Log       )(
+Cons.     
+Color    )(     
+Syb  )
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  *****
+Bottom  *****
+Water  ***
+Strata  *****
+Log  *******
+Cons.  ***
+Color  *********
+Syb  **************
+Res.  ****
+UCT  ****
+Density  ***
+LL  ***
+PL  ***
+D-10  *****
+Water  **
+
+UCT  
+ORG%  
+Materiall  
+Top  SHEAR
+Bottom   STRE
+Water  NGT
+Strata  H DES
+Log  IGN VAL
+Cons.  UES
+Color  
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Test 
+Bottom  Type:
+Water  (Q)
+Strata       
+Log         
+Cons.     
+Color       Clas
+Syb  sif  : CL  
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Depth
+Bottom  /Ele:
+Water   23
+Strata  .00/-
+Log  12.72  
+Cons.     
+Color       Wate
+Syb  r Con: 32.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  LL,PL
+Bottom  ,PI :
+Water    3
+Strata  3, 22
+Log  , 11   
+Cons.     
+Color       Dry 
+Syb  Dens : 99.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Cohes
+Bottom  ion :
+Water    0
+Strata  .374 
+Log         
+Cons.     
+Color       Satu
+Syb  rat  :100.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Shear
+Bottom   Str:
+Water     
+Strata       
+Log         
+Cons.     
+Color       Fric
+Syb  t Ang: 00.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Toggl
+Bottom  es  :
+Water  (  
+Strata     )(
+Log       )(
+Cons.     
+Color    )(     
+Syb  )
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  *****
+Bottom  *****
+Water  ***
+Strata  *****
+Log  *******
+Cons.  ***
+Color  *********
+Syb  **************
+Res.  ****
+UCT  ****
+Density  ***
+LL  ***
+PL  ***
+D-10  *****
+Water  **
+
+UCT  
+ORG%  
+Materiall  
+Top  SHEAR
+Bottom   STRE
+Water  NGT
+Strata  H DES
+Log  IGN VAL
+Cons.  UES
+Color  
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Test 
+Bottom  Type:
+Water  (Q)
+Strata       
+Log         
+Cons.     
+Color       Clas
+Syb  sif  : CH  
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Depth
+Bottom  /Ele:
+Water   32
+Strata  .00/-
+Log  21.72  
+Cons.     
+Color       Wate
+Syb  r Con: 37.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  LL,PL
+Bottom  ,PI :
+Water    6
+Strata  2, 18
+Log  , 44   
+Cons.     
+Color       Dry 
+Syb  Dens : 84.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Cohes
+Bottom  ion :
+Water    0
+Strata  .393 
+Log         
+Cons.     
+Color       Satu
+Syb  rat  :100.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Shear
+Bottom   Str:
+Water     
+Strata       
+Log         
+Cons.     
+Color       Fric
+Syb  t Ang: 00.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Toggl
+Bottom  es  :
+Water  (  
+Strata     )(
+Log       )(
+Cons.     
+Color    )(     
+Syb  )
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  *****
+Bottom  *****
+Water  ***
+Strata  *****
+Log  *******
+Cons.  ***
+Color  *********
+Syb  **************
+Res.  ****
+UCT  ****
+Density  ***
+LL  ***
+PL  ***
+D-10  *****
+Water  **
+
+UCT  
+ORG%  
+Materiall  
+Top  SHEAR
+Bottom   STRE
+Water  NGT
+Strata  H DES
+Log  IGN VAL
+Cons.  UES
+Color  
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Test 
+Bottom  Type:
+Water  (Q)
+Strata       
+Log         
+Cons.     
+Color       Clas
+Syb  sif  : CL  
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Depth
+Bottom  /Ele:
+Water    4
+Strata  0.00/
+Log  -29.72 
+Cons.     
+Color       Wate
+Syb  r Con: 35.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  LL,PL
+Bottom  ,PI :
+Water    3
+Strata  5, 23
+Log  , 12   
+Cons.     
+Color       Dry 
+Syb  Dens : 86.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Cohes
+Bottom  ion :
+Water    0
+Strata  .255 
+Log         
+Cons.     
+Color       Satu
+Syb  rat  :100.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Shear
+Bottom   Str:
+Water     
+Strata       
+Log         
+Cons.     
+Color       Fric
+Syb  t Ang: 00.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Toggl
+Bottom  es  :
+Water  (  
+Strata     )(
+Log       )(
+Cons.     
+Color    )(     
+Syb  )
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  *****
+Bottom  *****
+Water  ***
+Strata  *****
+Log  *******
+Cons.  ***
+Color  *********
+Syb  **************
+Res.  ****
+UCT  ****
+Density  ***
+LL  ***
+PL  ***
+D-10  *****
+Water  **
+
+UCT  
+ORG%  
+Materiall  
+Top  SHEAR
+Bottom   STRE
+Water  NGT
+Strata  H DES
+Log  IGN VAL
+Cons.  UES
+Color  
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Test 
+Bottom  Type:
+Water  (Q)
+Strata       
+Log         
+Cons.     
+Color       Clas
+Syb  sif  : CH  
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Depth
+Bottom  /Ele:
+Water   44
+Strata  .00/-
+Log  33.72  
+Cons.     
+Color       Wate
+Syb  r Con: 52.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  LL,PL
+Bottom  ,PI :
+Water    9
+Strata  8, 32
+Log  , 66   
+Cons.     
+Color       Dry 
+Syb  Dens : 66.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Cohes
+Bottom  ion :
+Water    0
+Strata  .451 
+Log         
+Cons.     
+Color       Satu
+Syb  rat  : 98.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Shear
+Bottom   Str:
+Water     
+Strata       
+Log         
+Cons.     
+Color       Fric
+Syb  t Ang: 00.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Toggl
+Bottom  es  :
+Water  (  
+Strata     )(
+Log       )(
+Cons.     
+Color    )(     
+Syb  )
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  *****
+Bottom  *****
+Water  ***
+Strata  *****
+Log  *******
+Cons.  ***
+Color  *********
+Syb  **************
+Res.  ****
+UCT  ****
+Density  ***
+LL  ***
+PL  ***
+D-10  *****
+Water  **
+
+UCT  
+ORG%  
+Materiall  
+Top  SHEAR
+Bottom   STRE
+Water  NGT
+Strata  H DES
+Log  IGN VAL
+Cons.  UES
+Color  
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Test 
+Bottom  Type:
+Water  (Q)
+Strata       
+Log         
+Cons.     
+Color       Clas
+Syb  sif  : CH O  
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Depth
+Bottom  /Ele:
+Water   51
+Strata  .00/-
+Log  40.72  
+Cons.     
+Color       Wate
+Syb  r Con: 79.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  LL,PL
+Bottom  ,PI :
+Water   14
+Strata  8, 47
+Log  ,101   
+Cons.     
+Color       Dry 
+Syb  Dens : 45.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Cohes
+Bottom  ion :
+Water    0
+Strata  .652 
+Log         
+Cons.     
+Color       Satu
+Syb  rat  : 97.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Shear
+Bottom   Str:
+Water     
+Strata       
+Log         
+Cons.     
+Color       Fric
+Syb  t Ang: 00.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Toggl
+Bottom  es  :
+Water  (  
+Strata     )(
+Log       )(
+Cons.     
+Color    )(     
+Syb  )
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  *****
+Bottom  *****
+Water  ***
+Strata  *****
+Log  *******
+Cons.  ***
+Color  *********
+Syb  **************
+Res.  ****
+UCT  ****
+Density  ***
+LL  ***
+PL  ***
+D-10  *****
+Water  **
+
+UCT  
+ORG%  
+Materiall  
+Top  SHEAR
+Bottom   STRE
+Water  NGT
+Strata  H DES
+Log  IGN VAL
+Cons.  UES
+Color  
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Test 
+Bottom  Type:
+Water  (Q)
+Strata       
+Log         
+Cons.     
+Color       Clas
+Syb  sif  : CL  
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Depth
+Bottom  /Ele:
+Water   56
+Strata  .00/-
+Log  45.72  
+Cons.     
+Color       Wate
+Syb  r Con: 29.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  LL,PL
+Bottom  ,PI :
+Water    3
+Strata  2, 22
+Log  , 10   
+Cons.     
+Color       Dry 
+Syb  Dens : 93.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Cohes
+Bottom  ion :
+Water    0
+Strata  .299 
+Log         
+Cons.     
+Color       Satu
+Syb  rat  : 95.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Shear
+Bottom   Str:
+Water     
+Strata       
+Log         
+Cons.     
+Color       Fric
+Syb  t Ang: 00.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Toggl
+Bottom  es  :
+Water  (  
+Strata     )(
+Log       )(
+Cons.     
+Color    )(     
+Syb  )
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  *****
+Bottom  *****
+Water  ***
+Strata  *****
+Log  *******
+Cons.  ***
+Color  *********
+Syb  **************
+Res.  ****
+UCT  ****
+Density  ***
+LL  ***
+PL  ***
+D-10  *****
+Water  **
+
+UCT  
+ORG%  
+Materiall  
+Top  SHEAR
+Bottom   STRE
+Water  NGT
+Strata  H DES
+Log  IGN VAL
+Cons.  UES
+Color  
+
+Syb  
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Test 
+Bottom  Type:
+Water  (Q)
+Strata       
+Log         
+Cons.     
+Color       Clas
+Syb  sif  : CL  
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Depth
+Bottom  /Ele:
+Water   60
+Strata  .00/-
+Log  49.72  
+Cons.     
+Color       Wate
+Syb  r Con: 34.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  LL,PL
+Bottom  ,PI :
+Water    3
+Strata  5, 21
+Log  , 14   
+Cons.     
+Color       Dry 
+Syb  Dens : 91.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Cohes
+Bottom  ion :
+Water    0
+Strata  .259 
+Log         
+Cons.     
+Color       Satu
+Syb  rat  :100.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Shear
+Bottom   Str:
+Water     
+Strata       
+Log         
+Cons.     
+Color       Fric
+Syb  t Ang: 00.00
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  Toggl
+Bottom  es  :
+Water  (  
+Strata     )(
+Log       )(
+Cons.     
+Color    )(     
+Syb  )
+
+Res.  
+UCT  
+Density  
+LL  
+PL  
+D-10  
+Water  
+UCT  
+ORG%  
+Materiall  
+Top  *****
+Bottom  *****
+Water  ***
+Strata  *****
+Log  *******
+Cons.  ***
+Color  *********
+Syb  **************
+Res.  ****
+UCT  ****
+Density  ***
+LL  ***
+PL  ***
+D-10  *****
+Water  **
+
+UCT  
+ORG%  
+Materiall  
