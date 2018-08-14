@@ -10,6 +10,8 @@ for entry in listOfFiles:
 for boringName in boringFileNames:
     open_file = open(boringName, 'r')
     file = open_file.readlines()
+    print(boringName, file=OutPut)
+    print('Gnd Elev. = ', file[7][10:16], file=OutPut)
     for item in range(8,((len(file))-8)):
         if file[item][0:5]=='999.9':
             pass
@@ -44,10 +46,10 @@ for boringName in boringFileNames:
             item16=file[item][76:80]
             item17=file[item][80:85]
             item18=file[item][85:90]
-        #        print('Materiall ', item18, file = OutPutl)
-        #        print(item1, item2, item3, item4, item5, item6,
-        #                item7, item8, item9, item10, item11,
-        #                 item12, item13, item14, item15, item16,
-        #                 item17, item18, file=OutPut)
-            print(item1, item2, item14, file=OutPut)
+            if item14 == '':
+                pass
+            elif item14 == '     ':
+                pass
+            else:
+                print((float(item1) + float(item2))/2, item14, file=OutPut)
 open_file.close()
